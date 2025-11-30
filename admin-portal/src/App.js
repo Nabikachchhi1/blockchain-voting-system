@@ -238,7 +238,7 @@ const VoterRegistration = () => {
       if (result.success) {
         setStatus({ 
           type: 'success', 
-          message: '✅ Fingerprint and Face successfully scanned. You can REGISTER NOW.' 
+          message: '✅ SUCCESSFULLY REGISTERED.' 
         });
         
         setFormData({ 
