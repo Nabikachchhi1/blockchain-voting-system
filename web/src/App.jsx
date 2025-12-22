@@ -4,7 +4,7 @@ import VotingContract from './VotingABI.json';
 import FaceAuth from './FaceAuth';
 import FingerprintAuth from './FingerprintAuth';
 
-const CONTRACT_ADDRESS = "0x6B2230D8F872e06cF8A1a079acabe876198A3931";
+const CONTRACT_ADDRESS = "YOUR_CONTRACT_ADDRESS";
 
 const candidatesByConstituency = {
   "jalna": ["KALYAN VAIJINATHRAO KALE", "DANVE RAOSAHEB DADARAO", "MANGESH SANJAY SABLE"],
