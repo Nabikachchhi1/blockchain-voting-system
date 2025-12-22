@@ -10,7 +10,7 @@ import FingerprintEnroll from './FingerprintEnroll';
 import VotingContract from './VotingABI.json';
 
 // Contract Configuration
-const CONTRACT_ADDRESS = "0x6B2230D8F872e06cF8A1a079acabe876198A3931";
+const CONTRACT_ADDRESS = "YOUR_CONTRACT_ADDRESS";
 
 // Data Configuration
 const resultsConstituencies = ["Jalna", "Aurangabad", "Beed", "Ahmednagar"];
